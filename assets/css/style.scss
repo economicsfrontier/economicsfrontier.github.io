@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Reduce header (blue band) height */
+.page-header {
+  padding: 1.5rem 1rem;   /* default is much larger */
+}
+
+/* Tighten title */
+.project-name {
+  font-size: 2rem;   /* smaller than default */
+  margin-bottom: 0.2rem;
+}
+
+/* Tighten subtitle */
+.project-tagline {
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+
+/* Reduce overall content width spacing */
+.main-content {
+  max-width: 800px;   /* tighter reading width */
+  padding: 1.5rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Headings tighter */
+h1, h2, h3 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Lists tighter */
+ul {
+  margin-bottom: 0.8rem;
+}
