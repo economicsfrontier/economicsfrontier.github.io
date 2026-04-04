@@ -8,9 +8,15 @@ My work focuses on a simple but often overlooked idea: progress is not just driv
 
 As artificial intelligence accelerates planning and decision-making, the constraint has shifted to execution—how well ideas are translated into measurable impact.
 
-## Papers
+## Whitepapers
 
-- Why Effective Program Management Is a Control Systems Problem
+### [Why Effective Program Management Is a Control Systems Problem](/whitepapers/control-systems-paper.pdf)
+
+This paper reframes program execution through the lens of control systems theory, where governance functions as feedback rather than oversight. As artificial intelligence accelerates planning and decision-making, the primary constraint shifts to execution—how effectively organizations convert intent into outcomes.
+
+It introduces a systems-based model for understanding execution efficiency, highlighting why traditional management approaches fail under increasing complexity and how feedback-driven governance stabilizes performance.
+
+*Download PDF*
 - AI economics paper coming soon
 
 ## Talks
