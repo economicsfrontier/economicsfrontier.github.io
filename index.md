@@ -1,5 +1,5 @@
 </> Markdown
----
+
 layout: default
 title: Economics Frontier
 ---
