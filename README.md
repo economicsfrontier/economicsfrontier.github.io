@@ -1,1 +1,1 @@
-# economicfrontier.github.io
+# economicsfrontier.github.io
