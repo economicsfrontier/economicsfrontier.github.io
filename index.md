@@ -4,9 +4,7 @@ layout: default
 title: Economics Frontier
 ---
 
-At Economics Frontier, I explore how complex systems—technology, economics, and organizations—interact to shape real-world outcomes.
-
-My work focuses on a simple but often overlooked idea: progress is not just driven by innovation, but by how effectively systems convert intent into results.
+At Economics Frontier, I explore how complex systems—technology, economics, and organizations—interact to shape real-world outcomes. My work focuses on a simple but often overlooked idea: progress is not just driven by innovation, but by how effectively systems convert intent into results.
 
 As artificial intelligence accelerates planning and decision-making, the constraint has shifted to execution—how well ideas are translated into measurable impact.
 
