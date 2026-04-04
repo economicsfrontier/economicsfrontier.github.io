@@ -11,7 +11,7 @@ This platform brings together my work on systems thinking, program execution, AI
 ## Papers
 
 - Why Effective Program Management Is a Control Systems Problem
-- Economics paper coming soon
+- AI economics paper coming soon
 
 ## Talks
 
