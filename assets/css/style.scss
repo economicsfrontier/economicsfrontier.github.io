@@ -68,3 +68,17 @@ body {
 .main-content a:hover {
   text-decoration: underline;
 }
+/* Whitepaper-style font */
+
+/* Body text → serif */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Headings → slightly refined serif */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: 0.2px;
+}
