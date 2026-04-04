@@ -2,11 +2,11 @@
 layout: default
 ---
 
-At Economics Frontier, I explore how complex systems—technology, economics, and organizations—interact to shape real-world outcomes. My work focuses on a simple but often overlooked idea: progress is not just driven by innovation, but by how effectively systems convert intent into results.
+Modern organizations don’t fail because of bad ideas—they fail because systems fail to convert intent into outcomes. At Economics Frontier, I explore how complex systems—technology, economics, and organizations—interact to shape real-world results.
+
+My work focuses on a simple but often overlooked idea: progress is not just driven by innovation, but by how effectively systems convert intent into results.
 
 As artificial intelligence accelerates planning and decision-making, the constraint has shifted to execution—how well ideas are translated into measurable impact.
-
-This platform brings together my work on systems thinking, program execution, AI, and economics.
 
 ## Papers
 
