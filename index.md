@@ -25,3 +25,4 @@ It introduces a systems-based model for understanding execution efficiency, high
 ---
 
 Andrew Thillainathan
+Portfolio & Program Management Leader | Systems Thinker
