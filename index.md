@@ -24,3 +24,8 @@ It introduces a systems-based model for understanding execution efficiency, high
 ## Talks
 
 - AI and Project Management — UTD Guest Lecture — coming soon
+
+---
+
+Andrew Thillainathan
+Portfolio & Program Management Leader · Systems Thinker
