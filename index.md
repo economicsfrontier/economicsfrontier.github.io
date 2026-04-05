@@ -12,6 +12,7 @@ As artificial intelligence accelerates planning and decision-making, the constra
 ---
 ### [Why Effective Program Management Is a Control Systems Problem (PDF)](/whitepapers/Why Effective Program Management Is a Control Systems Problem v1.1.pdf)
 *Whitepaper .2026*
+---
 This paper reframes program execution through the lens of control systems theory, where governance functions as feedback rather than oversight. As artificial intelligence accelerates planning and decision-making, the primary constraint shifts to execution—how effectively organizations convert intent into outcomes.
 
 It introduces a systems-based model for understanding execution efficiency, highlighting why traditional management approaches fail under increasing complexity and how feedback-driven governance stabilizes performance.
