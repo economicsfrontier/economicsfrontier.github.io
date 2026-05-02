@@ -2,9 +2,17 @@
 layout: default
 ---
 
-Modern organizations don’t fail because of bad ideas— they fail because systems fail to convert intent into outcomes. At Economics Frontier, I explore how complex systems—technology, economics, and organizations—interact to shape real-world results.
+<p><strong>Where AI, economics, and control systems meet.</strong></p>
 
-My work focuses on a simple but often overlooked idea: progress is not just driven by innovation, but by how effectively systems convert ideas into results.
+<p>
+AI is amplifying entire systems. As a result, organizations execute faster, economies expand unevenly, and intelligent models operate at scales that challenge traditional understanding. Yet across all of these domains, one principle holds: performance is ultimately governed not by capability alone, but by the stability of the system in which it operates.
+</p>
+
+<p>
+This work explores that principle across multiple domains, applying ideas from
+control systems, economics, and probability to better understand how complex
+systems behave—and how they can be guided toward balance.
+</p>
 
 ## Whitepapers
 ### [Program Management as a Control System (PDF)](/whitepapers/Why Effective Program Management Is a Control Systems Problem v1.1.pdf)
