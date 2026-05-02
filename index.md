@@ -5,12 +5,16 @@ layout: default
 <p><strong>Where AI, economics, and control systems meet.</strong></p>
 
 <p>
-AI is amplifying entire systems. As a result, organizations execute faster, economies expand unevenly, and intelligent models operate at scales that challenge traditional understanding. Yet across all of these domains, one principle holds: performance is ultimately governed not by capability alone, but by the stability of the system in which it operates.
+AI is not just improving tools, it is amplifying entire systems. As a result,
+organizations execute faster, economies expand unevenly, and intelligent models
+operate at scales that challenge traditional understanding. Yet across all of
+these domains, one principle holds: performance is governed not by capability
+alone, but by the stability of the system in which it operates.
 </p>
 
 <p>
 This work explores that principle across multiple domains, applying ideas from
-control systems, economics, and probability to better understand how complex
+control systems, economics, and probability theory to understand how complex
 systems behave—and how they can be guided toward balance.
 </p>
 
