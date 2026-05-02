@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p><strong>Where AI, economics, and control systems meet.</strong></p>
+<h1>Where AI, economics, and control systems meet.</h1>
 
 <p>
 AI is not just improving tools, it is amplifying entire systems. As a result,
