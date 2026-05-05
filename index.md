@@ -29,7 +29,7 @@ It introduces a systems-based model for understanding execution efficiency, high
 
 
 - AI economics paper coming soon
-- LLMs & Probability coming soon
+- LLMs & Probability paper coming soon
 
 ## Talks
 
