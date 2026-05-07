@@ -41,6 +41,7 @@ Slides and presentation materials from a guest lecture discussing artificial
 intelligence, probability, governance, machine learning systems, and the impact
 of AI on modern project and program management.
 
+[View Presentation Outline (PDF)](/whitepapers/UTD_AI_Project_Management_Guest_Lecture_2026.pdf)
 ---
 ---
 Andrew Thillainathan
