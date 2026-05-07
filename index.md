@@ -28,12 +28,18 @@ This paper reframes program execution through the lens of control systems theory
 It introduces a systems-based model for understanding execution efficiency, highlighting why traditional management approaches fail under increasing complexity and how feedback-driven governance stabilizes performance.
 
 
-- AI economics paper coming soon
-- LLMs & Probability paper coming soon
+- AI economics paper - coming soon
+- LLMs & Probability theory paper - coming soon
 
-## Talks
+## Lectures & Presentations
 
-- AI and Project Management — UTD Guest Lecture — coming soon
+### AI and Project Management — UTD Guest Lecture
+
+*Presentation Outline · 2026*
+
+Slides and presentation materials from a guest lecture discussing artificial
+intelligence, probability, governance, machine learning systems, and the impact
+of AI on modern project and program management.
 
 ---
 ---
