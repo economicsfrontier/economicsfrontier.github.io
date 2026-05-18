@@ -2,23 +2,24 @@
 layout: default
 ---
 
-<h1>Where AI, Cconomics, and Systems Thinking meet.</h1>
+<h1>Where AI, Economics, and Systems Thinking converge.</h1>
 
 <p>
-AI is not merely improving tools—it is reshaping the behavior of entire systems.
+AI is accelerating systems faster than traditional models were designed to handle.
 
-As planning accelerates, execution models strain. As productivity amplifies, economic assumptions are tested. As probabilistic AI expands into critical decisions, traditional governance models begin to show their limits.
+Enterprises are confronting execution strain. Economies are testing new equilibrium assumptions. Probabilistic AI is challenging conventional governance and decision-making frameworks.
 
-This platform explores those shifts through a different lens.
+These are not isolated problems.
 
-As a trained electrical engineer and business leader, I apply systems thinking, control theory, economics, and probabilistic reasoning to modern enterprise and societal challenges.
+They are systems problems.
 
-The central premise is simple:
-Capability alone does not determine performance. System stability does.
+Drawing on a background in electrical engineering, business leadership, and enterprise transformation, this platform explores those questions through the combined lenses of control systems, economics, and probabilistic reasoning.
+
+The underlying thesis is simple:
 </p>
-
+Performance is governed not by capability alone, but by the stability of the system in which capability operates.
 <p>
-From enterprise execution and AI governance to economic adaptation and intelligent decision systems, the goal is to better understand how complex systems behave—and how they can be calibrated for resilience, efficiency, and sustainable outcomes.
+This site examines how complex systems behave—and how better feedback, governance, and structural design can improve outcomes.
 </p>
 
 ## Whitepapers
