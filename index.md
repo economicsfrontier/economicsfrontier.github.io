@@ -8,13 +8,15 @@ layout: default
 AI is accelerating systems faster than traditional models were designed to handle.
 
 Enterprises are confronting execution strain. Economies are testing new equilibrium assumptions. Probabilistic AI is challenging conventional governance and decision-making frameworks.
-
+</p>
+<p>
 These are not isolated problems.
-
+</p>
 They are systems problems.
-
+<p>
 Drawing on a background in electrical engineering, business leadership, and enterprise transformation, this platform explores those questions through the combined lenses of control systems, economics, and probabilistic reasoning.
-
+</p>
+<p>
 The underlying thesis is simple:
 </p>
 Performance is governed not by capability alone, but by the stability of the system in which capability operates.
