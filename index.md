@@ -41,6 +41,13 @@ The paper introduces a systems-based framework for measuring execution efficienc
 ---
 An interdisciplinary systems framework examining how AI-driven productivity amplification affects labor displacement, economic realization, redistribution, and macroeconomic stability through the lens of classical economics and control theory.
 
+---
+### The Accuracy Illusion in Probabilistic AI Systems
+*Coming soon*
+---
+A statistical inference perspective on modern AI, examining why confidence, prediction, and benchmark accuracy are frequently misunderstood in probabilistic decision systems.
+
+
 ## Lectures & Presentations
 
 ### AI and Project Management — UTD Guest Lecture
