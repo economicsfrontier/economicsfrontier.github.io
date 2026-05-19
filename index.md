@@ -24,22 +24,24 @@ Performance is governed not by capability alone, but by the stability of the sys
 This site examines how complex systems behave—and how better feedback, governance, and structural design can improve outcomes.
 </p>
 
-## Whitepapers
+## Publications
 ### [Program Management as a Control System (PDF)](/whitepapers/Why Effective Program Management Is a Control Systems Problem v1.1.pdf)
-*Whitepaper .2026*
+*Published 2026*
 
 ---
 This white paper reframes enterprise execution through the lens of classical control systems theory, positioning governance as a feedback mechanism rather than administrative oversight.
 
-As artificial intelligence accelerates planning velocity and strategic intent generation, the primary constraint shifts downstream to execution, how effectively organizations convert intent into realized outcomes.
+As artificial intelligence accelerates planning velocity and strategic intent generation, the primary constraint shifts downstream to execution—how effectively organizations convert intent into realized outcomes.
 
-The paper introduces a systems-based framework for measuring execution efficiency, explaining why traditional management models break down under increasing complexity and how calibrated feedback stabilizes enterprise performance.
+The paper introduces a systems-based framework for measuring execution efficiency and demonstrates how calibrated governance stabilizes enterprise performance under dynamic load.
 
 ---
 
 ### [AI-Augmented Economic Stabilization (PDF)](/whitepapers/Thillainathan_AI_Augmented_Economic_Stabilization.pdf)
 ---
-An interdisciplinary systems framework examining how AI-driven productivity amplification affects labor displacement, economic realization, redistribution, and macroeconomic stability through the lens of classical economics and control theory.
+*Published 2026*
+
+An interdisciplinary framework examining how AI-driven productivity amplification impacts labor displacement, economic realization, redistribution, and macroeconomic stability through the combined lenses of classical economics and control systems.
 
 ---
 ---
