@@ -29,10 +29,11 @@ This site examines how complex systems behave—and how better feedback, governa
 *Whitepaper .2026*
 
 ---
-This paper reframes program execution through the lens of control systems theory, where governance functions as feedback rather than oversight. As artificial intelligence accelerates planning and decision-making, the primary constraint shifts to execution—how effectively organizations convert intent into outcomes.
+This white paper reframes enterprise execution through the lens of classical control systems theory, positioning governance as a feedback mechanism rather than administrative oversight.
 
-It introduces a systems-based model for understanding execution efficiency, highlighting why traditional management approaches fail under increasing complexity and how feedback-driven governance stabilizes performance.
+As artificial intelligence accelerates planning velocity and strategic intent generation, the primary constraint shifts downstream to execution, how effectively organizations convert intent into realized outcomes.
 
+The paper introduces a systems-based framework for measuring execution efficiency, explaining why traditional management models break down under increasing complexity and how calibrated feedback stabilizes enterprise performance.
 
 - AI economics paper - coming soon
 - LLMs & Probability theory paper - coming soon
