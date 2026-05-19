@@ -14,7 +14,7 @@ These are not isolated problems.
 </p>
 They are systems problems.
 <p>
-Drawing on a background in electrical engineering, business leadership, and enterprise transformation, this platform explores those questions through the combined lenses of control systems, economics, and probabilistic reasoning.
+Drawing on a background in electrical engineering, business leadership, and enterprise transformation, this platform explores those questions through the combined lenses of control systems, economics, and statistical inference.
 </p>
 <p>
 The underlying thesis is simple:
