@@ -38,9 +38,9 @@ The paper introduces a systems-based framework for measuring execution efficienc
 ---
 
 ### [AI-Augmented Economic Stabilization (PDF)](/whitepapers/Thillainathan_AI_Augmented_Economic_Stabilization.pdf)
----
 *Published 2026*
 
+---
 An interdisciplinary framework examining how AI-driven productivity amplification impacts labor displacement, economic realization, redistribution, and macroeconomic stability through the combined lenses of classical economics and control systems.
 
 ---
