@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Where AI, Economics, and Systems Thinking converge.</h1>
+<h1>Where AI, Economics, and Engineered Systems converge.</h1>
 
 <p>
 AI is accelerating systems faster than traditional models were designed to handle.
