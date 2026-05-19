@@ -35,8 +35,11 @@ As artificial intelligence accelerates planning velocity and strategic intent ge
 
 The paper introduces a systems-based framework for measuring execution efficiency, explaining why traditional management models break down under increasing complexity and how calibrated feedback stabilizes enterprise performance.
 
-- AI economics paper - coming soon
-- LLMs & Probability theory paper - coming soon
+---
+
+### [AI-Augmented Economic Stabilization (PDF)](/whitepapers/Thillainathan_AI_Augmented_Economic_Stabilization.pdf)
+---
+An interdisciplinary systems framework examining how AI-driven productivity amplification affects labor displacement, economic realization, redistribution, and macroeconomic stability through the lens of classical economics and control theory.
 
 ## Lectures & Presentations
 
