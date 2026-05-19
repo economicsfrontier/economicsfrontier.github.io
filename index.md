@@ -71,4 +71,12 @@ of AI on modern project and program management.
 ---
 Andrew Thillainathan
 ---
-Portfolio & Program Management Leader | Systems Thinker
+Systems Thinking for Enterprise Transformation, AI Governance, and Economic Change
+<p>Contact:</p>
+
+<script>
+  var user = 'andrew.thillainathan';
+  var domain = 'gmail.com';
+  var email = user + '@' + domain;
+  document.write('<a href="mailto:' + email + '">Contact via Email</a>');
+</script>
