@@ -42,10 +42,16 @@ The paper introduces a systems-based framework for measuring execution efficienc
 An interdisciplinary systems framework examining how AI-driven productivity amplification affects labor displacement, economic realization, redistribution, and macroeconomic stability through the lens of classical economics and control theory.
 
 ---
-### The Accuracy Illusion in Probabilistic AI Systems
-*Coming soon*
 ---
-A statistical inference perspective on modern AI, examining why confidence, prediction, and benchmark accuracy are frequently misunderstood in probabilistic decision systems.
+
+## Coming Soon
+
+### Stabilizing AI Decision Systems in Banking
+**A Closed-Loop Governance Framework for Drift, Risk, and Adaptive Oversight**
+
+A systems-based governance model for managing AI drift, operational risk exposure, and supervisory oversight in high-stakes banking decision environments.
+
+---
 
 
 ## Lectures & Presentations
