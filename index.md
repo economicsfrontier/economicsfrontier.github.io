@@ -72,7 +72,6 @@ of AI on modern project and program management.
 Andrew Thillainathan
 ---
 Systems Thinking for Enterprise Transformation, AI Governance, and Economic Change
-<p>Contact:</p>
 
 <script>
   var user = 'andrew.thillainathan';
