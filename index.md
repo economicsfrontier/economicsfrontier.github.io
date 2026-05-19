@@ -44,7 +44,6 @@ The paper introduces a systems-based framework for measuring execution efficienc
 An interdisciplinary framework examining how AI-driven productivity amplification impacts labor displacement, economic realization, redistribution, and macroeconomic stability through the combined lenses of classical economics and control systems.
 
 ---
----
 
 ## Coming Soon
 
@@ -54,7 +53,6 @@ An interdisciplinary framework examining how AI-driven productivity amplificatio
 A systems-based governance model for managing AI drift, operational risk exposure, and supervisory oversight in high-stakes banking decision environments.
 
 ---
-
 
 ## Lectures & Presentations
 
