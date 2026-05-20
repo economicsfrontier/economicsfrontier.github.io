@@ -15,7 +15,8 @@ The underlying thesis is simple:
 </p>
 <p>
 **Performance is governed not by capability alone, but by the stability of the system in which capability operates.**
-
+</p>
+<p>
 Through applied research and executive thought leadership, this site explores enterprise execution, AI governance, economic adaptation, and probabilistic decision systems.
 </p>
 
@@ -24,11 +25,9 @@ Through applied research and executive thought leadership, this site explores en
 *Published 2026*
 
 ---
-This white paper reframes enterprise execution through the lens of classical control systems theory, positioning governance as a feedback mechanism rather than administrative oversight.
+This paper applies classical control systems theory to enterprise execution, reframing governance as a feedback mechanism rather than administrative oversight.
 
-As artificial intelligence accelerates planning velocity and strategic intent generation, the primary constraint shifts downstream to execution—how effectively organizations convert intent into realized outcomes.
-
-The paper introduces a systems-based framework for measuring execution efficiency and demonstrates how calibrated governance stabilizes enterprise performance under dynamic load.
+As AI accelerates planning velocity and organizational complexity, execution becomes the primary constraint. The framework examines how calibrated governance improves delivery stability, efficiency, and enterprise outcomes.
 
 ---
 
@@ -36,7 +35,7 @@ The paper introduces a systems-based framework for measuring execution efficienc
 *Published 2026*
 
 ---
-An interdisciplinary framework examining how AI-driven productivity amplification impacts labor displacement, economic realization, redistribution, and macroeconomic stability through the combined lenses of classical economics and control systems.
+An interdisciplinary systems framework examining how AI-driven productivity amplification affects labor transition, economic realization, and macroeconomic stability through the combined lenses of economics and engineering systems design.
 
 ---
 
@@ -64,7 +63,7 @@ of AI on modern project and program management.
 ---
 Andrew Thillainathan
 ---
-Systems Thinking for Enterprise Transformation, AI Governance, and Economic Change
+Enterprise Transformation Leader | Systems Thinker | AI Governance
 
 <script>
   var user = 'andrew.thillainathan';
