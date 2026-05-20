@@ -2,26 +2,21 @@
 layout: default
 ---
 
-<h1>Where AI, Economics, and Engineered Systems converge.</h1>
+<h1>Applying Engineering Systems Thinking to Enterprise Transformation, AI Governance, and Economic Change.</h1>
 
 <p>
-AI is accelerating systems faster than traditional models were designed to handle.
+AI is accelerating systems faster than traditional operating models were designed to handle.
 
-Enterprises are confronting execution strain. Economies are testing new equilibrium assumptions. Probabilistic AI is challenging conventional governance and decision-making frameworks.
-</p>
-<p>
-These are not isolated problems.
-</p>
-They are systems problems.
-<p>
-Drawing on a background in electrical engineering, business leadership, and enterprise transformation, this platform explores those questions through the combined lenses of control systems, economics, and statistical inference.
-</p>
-<p>
+Enterprises are confronting execution strain, governance complexity, and new economic assumptions shaped by artificial intelligence.
+
+Drawing on a background in electrical engineering, business leadership, and enterprise transformation, this platform applies engineering systems thinking to modern organizational and economic challenges.
+
 The underlying thesis is simple:
 </p>
-Performance is governed not by capability alone, but by the stability of the system in which capability operates.
 <p>
-This site examines how complex systems behave—and how better feedback, governance, and structural design can improve outcomes.
+**Performance is governed not by capability alone, but by the stability of the system in which capability operates.**
+
+Through applied research and executive thought leadership, this site explores enterprise execution, AI governance, economic adaptation, and probabilistic decision systems.
 </p>
 
 ## Publications
