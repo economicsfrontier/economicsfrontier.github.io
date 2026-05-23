@@ -21,7 +21,7 @@ Through applied research and executive thought leadership, this site explores en
 </p>
 
 ## Publications
-### [Program Management as a Control System (PDF)](/whitepapers/Why Effective Program Management Is a Control Systems Problem v1.1.pdf)
+### [Program Management as a Control System (PDF)](/whitepapers/program-management-control-systems-v1.1.pdf)
 *Published 2026*
 
 ---
