@@ -8,7 +8,6 @@ title: About the Author
 Andrew Thillainathan is an electrical engineer, MBA, technology leader, and independent researcher whose work explores the intersection of AI, economics, control systems, governance, and business performance.
 
 ## My Approach to AI-Assisted Research and Writing
-</p>
 <p>
   
 #A Personal Journey Back to Control Systems
