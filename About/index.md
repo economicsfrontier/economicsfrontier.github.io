@@ -21,8 +21,9 @@ My fascination with the subject deepened during an internship at Motorola, where
 <p>
 Although my career eventually moved into technology leadership, program management, governance, and financial services, the underlying concepts never completely left me. Over time, I began noticing similarities between engineered systems and organizational systems. Projects, programs, businesses, and even economies appeared to exhibit many of the same characteristics that engineers describe through feedback loops, delays, amplification, noise, and stability.
 </p>
-
-
+<p>
+For many years, these observations remained just that—observations. My professional career was focused on building teams, delivering programs, and leading technology initiatives rather than publishing research. It was only much later, through independent study and writing, that I began exploring these ideas more formally. The emergence of modern AI tools provided an unexpected opportunity to revisit concepts I had not studied deeply in decades, challenge my assumptions, connect ideas across disciplines, and organize them into a more coherent body of work.
+</p>
 <strong>Research and Writing Philosophy</strong>
 </p>
 <p>
