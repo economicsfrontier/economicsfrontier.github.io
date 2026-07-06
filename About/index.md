@@ -25,7 +25,6 @@ Although my career eventually moved into technology leadership, program manageme
 For many years, these observations remained just that—observations. My professional career was focused on building teams, delivering programs, and leading technology initiatives rather than publishing research. It was only much later, through independent study and writing, that I began exploring these ideas more formally. The emergence of modern AI tools provided an unexpected opportunity to revisit concepts I had not studied deeply in decades, challenge my assumptions, connect ideas across disciplines, and organize them into a more coherent body of work.
 </p>
 <strong>Research and Writing Philosophy</strong>
-</p>
 <p>
 The ideas presented on this website are rooted in my education, professional experience, observations, and independent research. They represent an attempt to explore modern challenges through an interdisciplinary lens that combines engineering, business, economics, governance, and artificial intelligence.
 </p>
