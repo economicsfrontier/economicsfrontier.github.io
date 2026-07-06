@@ -64,6 +64,7 @@ of AI on modern project and program management.
 Andrew Thillainathan
 ---
 Enterprise Transformation Leader | Systems Thinker | AI Governance
+<p>
 <a href="/about/">
 About the Author & Research Philosophy
 </a>
