@@ -65,7 +65,7 @@ Andrew Thillainathan
 ---
 Enterprise Transformation Leader | Systems Thinker | AI Governance
 <p>
-<a href="/about/">
+<a href="/About/">
 About the Author & Research Philosophy
 </a>
 </p>
