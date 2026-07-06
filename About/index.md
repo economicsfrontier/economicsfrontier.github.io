@@ -10,7 +10,7 @@ Andrew Thillainathan is an electrical engineer, MBA, technology leader, and inde
 ## My Approach to AI-Assisted Research and Writing
 <p>
   
-**A Personal Journey Back to Control Systems**
+<strong>A Personal Journey Back to Control Systems</strong>
 </p>
 <p>
 When I was an electrical engineering student, one of the courses that intrigued me most was Control Systems. I was fascinated by the idea that complex systems could be understood through feedback, stability, correction, and response. One of the most memorable lessons involved aircraft rudder control and how mathematical models could be used to describe and predict system behavior. I remember hearing that control systems was considered one of the prized disciplines in engineering because it was fundamentally about understanding how complex systems behave. The saying was that if you truly understood systems, you understood engineering.
@@ -23,7 +23,7 @@ Although my career eventually moved into technology leadership, program manageme
 </p>
 <p>
 
-**Research and Writing Philosophy**
+<strong>Research and Writing Philosophy**</strong>
 </p>
 <p>
 The ideas presented on this website are rooted in my education, professional experience, observations, and independent research. They represent an attempt to explore modern challenges through an interdisciplinary lens that combines engineering, business, economics, governance, and artificial intelligence.
