@@ -22,6 +22,7 @@ My fascination with the subject deepened during an internship at Motorola, where
 Although my career eventually moved into technology leadership, program management, governance, and financial services, the underlying concepts never completely left me. Over time, I began noticing similarities between engineered systems and organizational systems. Projects, programs, businesses, and even economies appeared to exhibit many of the same characteristics that engineers describe through feedback loops, delays, amplification, noise, and stability.
 </p>
 <p>
+
 **Research and Writing Philosophy**
 </p>
 <p>
