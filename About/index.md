@@ -21,7 +21,7 @@ My fascination with the subject deepened during an internship at Motorola, where
 <p>
 Although my career eventually moved into technology leadership, program management, governance, and financial services, the underlying concepts never completely left me. Over time, I began noticing similarities between engineered systems and organizational systems. Projects, programs, businesses, and even economies appeared to exhibit many of the same characteristics that engineers describe through feedback loops, delays, amplification, noise, and stability.
 </p>
-<p>
+
 
 <strong>Research and Writing Philosophy**</strong>
 </p>
@@ -36,3 +36,4 @@ If I cannot explain, defend, challenge, or extend an idea without AI present, th
 </p>
 <p>
 Many of the concepts discussed on this website trace their origins to ideas first encountered decades ago in engineering classrooms and engineering practice. AI did not create those ideas. It helped me revisit them, refine them, and connect them to challenges that organizations face today.
+
