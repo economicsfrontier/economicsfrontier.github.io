@@ -23,7 +23,7 @@ Although my career eventually moved into technology leadership, program manageme
 </p>
 
 
-<strong>Research and Writing Philosophy**</strong>
+<strong>Research and Writing Philosophy</strong>
 </p>
 <p>
 The ideas presented on this website are rooted in my education, professional experience, observations, and independent research. They represent an attempt to explore modern challenges through an interdisciplinary lens that combines engineering, business, economics, governance, and artificial intelligence.
