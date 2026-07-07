@@ -61,6 +61,7 @@ of AI on modern project and program management.
 ### [AI and Project Management — UTD Guest Lecture (PDF)](/whitepapers/AI and the Future of Project Execution- Lecture.pdf)
 ---
 ---
+## About
 Andrew Thillainathan
 ---
 Enterprise Transformation Leader | Systems Thinker | AI Governance
