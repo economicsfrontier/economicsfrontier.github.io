@@ -44,6 +44,5 @@ If I cannot explain, defend, challenge, or extend an idea without AI present, th
 <p>
 The work published on this website reflects a collaboration between professional experience, independent inquiry, and modern research tools. While AI can accelerate exploration and improve communication, responsibility for every idea, conclusion, and published work remains my own.
 </p>
-<p>
-The work published on this website reflects a collaboration between professional experience, independent inquiry, and modern research tools. While AI can accelerate exploration and improve communication, responsibility for every idea, conclusion, and published work remains my own.
+
 
