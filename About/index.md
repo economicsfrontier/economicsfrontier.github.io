@@ -5,7 +5,7 @@ title: About the Author
 
 # About the Author
 
-Andrew Thillainathan is an electrical engineer, MBA, technology leader, and independent researcher whose work explores the intersection of artificial intelligence, economics, control systems, governance, and enterprise performance. Combining engineering principles with decades of experience in technology leadership, program management, and financial services, he examines how complex systems create, govern, and realize value in an increasingly AI-driven world.
+Andrew Thillainathan is an electrical engineer, MBA, technology leader, independent researcher, and adjunct lecturer at The University of Texas at Dallas. His work explores the intersection of artificial intelligence, economics, control systems, governance, and enterprise performance. Drawing on decades of experience in engineering, technology leadership, program management, financial services, and graduate education, he examines how complex systems create, govern, and realize value in an increasingly AI-driven world.
 
 ## My Approach to AI-Assisted Research and Writing
 <p>
