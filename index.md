@@ -19,8 +19,11 @@ The underlying thesis is simple:
 </p>
 <p>
   
-<div style="text-align: center; max-width: 550px; margin: 10px auto;">
-  <strong>Capability matters, but system stability determines how much is ultimately realized.</strong>
+<div style="text-align: center; max-width: 520px; margin: 10px auto; line-height: 1.35;">
+  <strong>
+    Capability matters, but system stability<br>
+    determines how much is ultimately realized.
+  </strong>
 </div>
 </p>
 <p>
