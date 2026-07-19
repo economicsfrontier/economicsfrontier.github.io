@@ -20,11 +20,9 @@ The underlying thesis is simple:
 Through applied research and executive thought leadership, this site explores enterprise execution, AI governance, economic adaptation, and probabilistic decision systems.
 </p>
 ---
-
 ### [Understanding the Mathematics through Airplane Analogy](/assets/Airplane_Analogy_Diagram.jpeg)
 ---
 Some of the mathematical models presented throughout this site are based on principles from feedback control systems. Readers interested in a simple visual analogy may find the Airplane Analogy for Feedback Control helpful before exploring the papers.
-
 
 ## Publications
 ### [Program Management as a Control System (PDF)](/whitepapers/program-management-control-systems-v1.1.pdf)
@@ -36,10 +34,8 @@ This paper applies classical control systems theory to enterprise execution, ref
 As AI accelerates planning velocity and organizational complexity, execution becomes the primary constraint. The framework examines how calibrated governance improves delivery stability, efficiency, and enterprise outcomes.
 
 ---
-
 ### [AI-Augmented Economic Stabilization (PDF)](/whitepapers/Thillainathan_AI_Augmented_Economic_Stabilization.pdf)
 *Published 2026*
-
 ---
 An interdisciplinary systems framework examining how AI-driven productivity amplification affects labor transition, economic realization, and macroeconomic stability through the combined lenses of economics and engineering systems design.
 
@@ -51,7 +47,6 @@ An interdisciplinary systems framework examining how AI-driven productivity ampl
 A systems-based governance model for managing AI drift, operational risk exposure, and supervisory oversight in high-stakes banking decision environments.
 
 ---
-
 ## Lectures & Presentations
 
 ### AI and Project Management — UTD Guest Lecture
