@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div style="text-align: center; max-width: 800px; margin: 0 auto;">
-  <h1>
+  <h2>
     Applying Engineering Systems Thinking to Enterprise Transformation, AI Governance, and Economic Change.
-  </h1>
+  </h2>
 </div>
 
 <p>
