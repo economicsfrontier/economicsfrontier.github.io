@@ -15,7 +15,7 @@ The underlying thesis is simple:
 </p>
 <p>
   
-<div style="text-align: center; max-width: 500px; margin: 40px auto;">
+<div style="text-align: center; max-width: 550px; margin: 10px auto;">
   <strong>Performance is governed not by capability alone, but by the stability of the system in which capability operates.</strong>
 </div>
 </p>
