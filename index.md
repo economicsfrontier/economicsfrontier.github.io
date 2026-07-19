@@ -15,7 +15,7 @@ The underlying thesis is simple:
 </p>
 <p>
   
-  **Performance is governed not by capability alone, but by the stability of the system in which capability operates.**
+<strong>Performance is governed not by capability alone, but by the stability of the system in which capability operates.</strong>
 </p>
 <p>
 Through applied research and executive thought leadership, this site explores enterprise execution, AI governance, economic adaptation, and probabilistic decision systems.
