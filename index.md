@@ -52,7 +52,7 @@ A systems-based governance model for managing AI drift, operational risk exposur
 ---
 ## Lectures & Presentations
 
-### AI and Project Management — UTD Guest Lecture
+### [AI and Project Management — UTD Guest Lecture (PDF)](/whitepapers/AI and the Future of Project Execution- Lecture.pdf)
 
 *Presentation Outline · 2026*
 
@@ -60,8 +60,6 @@ Slides and presentation materials from a guest lecture discussing artificial
 intelligence, probability, governance, machine learning systems, and the impact
 of AI on modern project and program management.
 
-### [AI and Project Management — UTD Guest Lecture (PDF)](/whitepapers/AI and the Future of Project Execution- Lecture.pdf)
----
 ---
 ## About
 Andrew Thillainathan
