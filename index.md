@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<h1>Applying Engineering Systems Thinking to Enterprise Transformation, AI Governance, and Economic Change.</h1>
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+  <h1>
+    Applying Engineering Systems Thinking to Enterprise Transformation, AI Governance, and Economic Change.
+  </h1>
+</div>
 
 <p>
 AI is accelerating systems faster than traditional operating models were designed to handle.
