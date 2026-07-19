@@ -36,13 +36,13 @@ The ideas presented on this website are rooted in my education, professional exp
 I am particularly interested in how concepts from one discipline can be applied to another. Many of the frameworks explored on this website originated from asking whether principles that have proven useful in engineering—such as feedback, stability, amplification, delays, and control—might also help explain behavior in organizations, governance systems, financial institutions, and economies.
 </p>
 <p>
-AI plays an important role in my research process. I use it as a research assistant, sounding board, editor, and challenger of assumptions. It helps me explore concepts, identify weaknesses in arguments, improve clarity, and communicate ideas more effectively. However, AI does not originate the frameworks, conclusions, or viewpoints presented here.
+My research follows an iterative process that combines independent inquiry with modern AI-assisted exploration. AI serves as a research assistant that helps test assumptions, explore alternative perspectives, identify weaknesses in reasoning, improve clarity, and refine communication. It complements—but does not replace—the critical thinking, professional judgment, and subject-matter experience that shape every framework and conclusion.
 </p>
 <p>
-If I cannot explain, defend, challenge, or extend an idea without AI present, then I do not consider that idea ready for publication.
+Ultimately, every idea published on this website is one that I have personally examined, challenged, and refined. If I cannot explain, defend, or extend an idea independently, it is not ready for publication. Responsibility for every model, conclusion, and published work remains my own.
 </p>
 <p>
-The work published on this website reflects a collaboration between professional experience, independent inquiry, and modern research tools. While AI can accelerate exploration and improve communication, responsibility for every idea, conclusion, and published work remains my own.
+Ultimately, every idea published on this website is one that I have personally examined, challenged, and refined. If I cannot explain, defend, or extend an idea independently, it is not ready for publication. Responsibility for every model, conclusion, and published work remains my own.
 </p>
 
 
