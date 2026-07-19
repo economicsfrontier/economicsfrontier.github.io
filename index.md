@@ -21,7 +21,7 @@ Through applied research and executive thought leadership, this site explores en
 </p>
 ---
 ### [Understanding the Mathematics through Airplane Analogy](/assets/Airplane_Analogy_Diagram.jpeg)
----
+
 Some of the mathematical models presented throughout this site are based on principles from feedback control systems. Readers interested in a simple visual analogy may find the Airplane Analogy for Feedback Control helpful before exploring the papers.
 
 ## Publications
