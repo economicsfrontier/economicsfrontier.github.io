@@ -41,8 +41,5 @@ My research follows an iterative process that combines independent inquiry with 
 <p>
 Ultimately, every idea published on this website is one that I have personally examined, challenged, and refined. If I cannot explain, defend, or extend an idea independently, it is not ready for publication. Responsibility for every model, conclusion, and published work remains my own.
 </p>
-<p>
-Ultimately, every idea published on this website is one that I have personally examined, challenged, and refined. If I cannot explain, defend, or extend an idea independently, it is not ready for publication. Responsibility for every model, conclusion, and published work remains my own.
-</p>
 
 
