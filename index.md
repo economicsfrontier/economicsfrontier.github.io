@@ -19,7 +19,7 @@ The underlying thesis is simple:
 </p>
 <p>
   
-<div style="text-align: center; max-width: 520px; margin: 10px auto; line-height: 1.35;">
+<div style="text-align: center; max-width: 520px; margin: 10px auto; line-height: 1.35; color: #333333;">
   <strong>
     Capability matters, but system stability<br>
     determines how much is ultimately realized.
