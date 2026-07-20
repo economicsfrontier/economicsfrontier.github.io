@@ -4,7 +4,7 @@ layout: default
 
 <div style="text-align: center; max-width: 800px; margin: 0 auto;">
   <h2>
-    Applying Engineering Systems Thinking to Enterprise Transformation, AI Governance, and Economic Change.
+    Applying Engineering Systems Principles to Enterprise Transformation, AI Governance, and Economic Change.
   </h2>
 </div>
 
