@@ -49,9 +49,9 @@ Published 2026- An interdisciplinary systems framework examining how AI-driven p
 
 ## Coming Soon
 
-### Stabilizing AI Decision Systems in Banking
+### Governance as a Business Performance System
 
-A systems-based governance model for managing AI drift, operational risk exposure, and supervisory oversight in high-stakes banking decision environments.
+Reframing AI governance in banking as a closed-loop business performance system.
 
 ---
 ## Lectures & Presentations
