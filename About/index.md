@@ -39,7 +39,7 @@ I am particularly interested in how concepts from one discipline can be applied 
 My research follows an iterative process that combines independent inquiry with modern AI-assisted exploration. AI serves as a research assistant that helps test assumptions, explore alternative perspectives, identify weaknesses in reasoning, improve clarity, and refine communication. It complements—but does not replace—the critical thinking, professional judgment, and subject-matter experience that shape every framework and conclusion.
 </p>
 <p>
-Ultimately, every idea published on this website is one that I have personally examined, challenged, and refined. If I cannot explain, defend, or extend an idea independently, it is not ready for publication. Responsibility for every model, conclusion, and published work remains my own.
+The work published on this website reflects an iterative process of exploration, critical evaluation, and refinement. Every framework, conclusion, and published work represents my own judgment and responsibility.
 </p>
 
 
