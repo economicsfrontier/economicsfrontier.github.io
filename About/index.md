@@ -7,7 +7,7 @@ title: About the Author
     ← Return to Home
   </a>
 </div>
-# About the Author
+<h1 style="margin-top: 8px;">About the Author</h1>
 
 Andrew Thillainathan is an electrical engineer, MBA, technology leader, independent researcher, and incoming adjunct lecturer at The University of Texas at Dallas. His work explores the intersection of artificial intelligence, economics, control systems, governance, and enterprise performance. Drawing on decades of experience in engineering, technology leadership, program management, financial services, and graduate education, he examines how complex systems create, govern, and realize value in an increasingly AI-driven world.
 
