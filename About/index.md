@@ -2,7 +2,7 @@
 layout: default
 title: About the Author
 ---
-<div style="margin-bottom:25px;">
+<div style="margin-bottom:8px;">
   <a href="/" style="text-decoration:none; color:#555555; font-size:15px;">
     ← Return to Home
   </a>
