@@ -36,7 +36,9 @@ Some of the mathematical models presented throughout this site are based on prin
 <p>
 The analogy illustrates how feedback continuously corrects a system toward its intended objective despite uncertainty and external disturbances. Many of the ideas explored throughout this website apply that same engineering perspective to organizations, AI governance, enterprise transformation, and economic systems.
 <p/>
+<p>
 No prior background in engineering or control theory is required. The objective is to build an intuitive understanding that makes the mathematical models easier to follow.
+<p/>
 
 ## Publications
 ### [Program Management as a Control System (PDF)](/whitepapers/program-management-control-systems-v1.1.pdf)
