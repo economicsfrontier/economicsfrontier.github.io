@@ -1,3 +1,6 @@
 title: Economics Frontier
 description: Systems, Economics, and Execution
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap
