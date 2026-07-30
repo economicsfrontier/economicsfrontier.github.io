@@ -1,15 +1,16 @@
 ---
-layout: default
-title: Governance as a Business Performance System
 permalink: /governance/
 ---
 
-# Governance as a Business Performance System
+<meta http-equiv="refresh" content="0; url=/whitepapers/Governance_As_a_Business_Performance_System_Thillainathan.pdf">
 
-## A Systems-Oriented Framework for AI Governance and Value Realization in Banking
+<script>
+  window.location.replace("/whitepapers/Governance_As_a_Business_Performance_System_Thillainathan.pdf");
+</script>
 
-This paper explores how systems thinking can complement established AI governance practices by viewing governance not only as a mechanism for managing risk and compliance, but also as a business performance system focused on preserving and realizing enterprise value.
-
-### Download the White Paper
-
-[Download the PDF](/whitepapers/Governance_As_a_Business_Performance_System_Thillainathan.pdf)
+<p>
+  Opening the white paper…
+  <a href="/whitepapers/Governance_As_a_Business_Performance_System_Thillainathan.pdf">
+    Click here if it does not open automatically.
+  </a>
+</p>
