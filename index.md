@@ -52,7 +52,7 @@ Published 2026- An interdisciplinary systems framework examining how AI-driven p
 
 ### [Governance As a Business Performance System (PDF)](/whitepapers/Governance_As_a_Business_Performance_System_Thillainathan.pdf)
 
-Explores a new perspective on AI governance by positioning governance not only as a mechanism for risk management and compliance, but also as a business performance system for preserving and realizing projected value. Drawing on principles from control systems theory, the paper introduces a conceptual framework for evaluating how effectively organizations convert AI capability into measurable business outcomes while balancing governance effectiveness with governance friction. It is intended for executives, practitioners, researchers, and students interested in AI governance, enterprise performance, and value realization.
+Explores a new perspective on AI governance in banking by positioning governance not only as a mechanism for risk management and compliance, but also as a business performance system for preserving and realizing projected value. Drawing on principles from control systems theory, the paper introduces a systems-oriented framework for evaluating how effectively financial institutions convert AI capability into measurable business outcomes while balancing governance effectiveness with governance friction. While developed in the context of banking, the framework is broadly applicable to other industries pursuing AI-enabled transformation. It is intended for executives, practitioners, researchers, and students interested in AI governance, enterprise performance, and value realization.
 
 ## Coming Soon
 
