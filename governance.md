@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Governance as a Business Performance System
 permalink: /governance/
 ---
