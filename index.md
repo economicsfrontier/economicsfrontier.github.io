@@ -56,8 +56,11 @@ Explores a new perspective on AI governance in banking by positioning governance
 
 ### [The Mathematics of Workforce Performance(PDF)](/whitepapers/Mathematics_of_Workforce_Performance.pdf)
 
-Description
+*An Organizational Design Framework for Human Capability, Performance Efficiency, and Value Realization*
 
+This paper introduces a systems-oriented mathematical framework for examining how organizations convert workforce capability into realized business value. Drawing on feedback control theory, it explores performance convergence, the organizational cost of corrective intervention, and how individual performance gaps affect collective workforce efficiency.
+
+Through simplified and weighted mathematical models, the paper demonstrates how workforce structure, role contributions, and performance gaps influence organizational outcomes. The framework offers a new analytical perspective on workforce design, performance management, and sustainable value realization, particularly as AI continues to reshape organizational capabilities.
 
 ## Coming Soon
 
